@@ -1,0 +1,3 @@
+-e ../commcare-cloud
+nose
+parameterized
