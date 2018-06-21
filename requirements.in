@@ -1,3 +1,3 @@
--e ../commcare-cloud
+-e git+https://github.com/dimagi/commcare-cloud.git@dmr/remove-environments#egg=commcare-cloud
 nose
 parameterized
