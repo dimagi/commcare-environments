@@ -1,0 +1,3 @@
+-e git+https://github.com/dimagi/commcare-cloud.git@dmr/prep-for-separate-env#egg=commcare-cloud
+nose
+parameterized
